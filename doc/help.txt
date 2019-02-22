@@ -1,0 +1,58 @@
+------------------
+REQUIRED ARGUMENTS
+------------------
+
+--iMetagenomeRarefactionDepth:
+	USAGE: Depth to which metagenomes should be rarefied
+	TYPE: integer
+	OPTIONAL: false
+	POSSIBLE VALUES: positive integer
+	DEFAULT VALUE: na
+
+--iRandomSeed:
+	USAGE: Random seed for initializing random number generator.
+	TYPE: integer
+	OPTIONAL: false
+	POSSIBLE VALUES: any integer
+	DEFAULT VALUE: na
+
+--sBIOMPath:
+	USAGE: Absolute path to a file containing an OTU table. File should be in BIOM format (HDF5). Should include 'latitude', 'longitude', 'datetime', and optionally 'vert' sample metadata fields.
+	TYPE: string
+	OPTIONAL: false
+	POSSIBLE VALUES: path to a biom file
+	DEFAULT VALUE: na
+
+--sOutputPath:
+	USAGE: Path for writing output.
+	TYPE: string
+	OPTIONAL: false
+	POSSIBLE VALUES: any valid path
+	DEFAULT VALUE: na
+
+--sProbabilityOfAssemblyFcnPath:
+	USAGE: Path to file giving map from read depths to probability of assembly. Headers should be READ_DEPTH and PROBABILITY_OF_ASSEMBLY.
+	TYPE: string
+	OPTIONAL: false
+	POSSIBLE VALUES: 
+	DEFAULT VALUE: na
+
+
+------------------
+OPTIONAL ARGUMENTS
+------------------
+
+--sRarefactionCurveOutputPath:
+	USAGE: Path to file with rarefaction cuves. Data fields are METAGENOME_ID, NUMBER_OF_READS, NUMBER_OF_GENES, which are respectively the metagenome ID, number of reads (rarefied), and number of genes in the rarefied metagenome.
+	TYPE: string
+	OPTIONAL: true
+	POSSIBLE VALUES: 
+	DEFAULT VALUE: na
+
+--sRarefactionMode:
+	USAGE: Find read counts by calculating the expected value ("mean") or simulating a variate ("randomsample") from a multivariate hypergeometric distribution. Note that in both cases occurrences are always found by simulating a Bernoulli random variate.
+	TYPE: string
+	OPTIONAL: true
+	POSSIBLE VALUES: randomsample, mean
+	DEFAULT VALUE: randomsample
+

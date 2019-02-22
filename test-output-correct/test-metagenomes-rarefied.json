@@ -1,0 +1,47 @@
+{
+	"id":null,
+	"format": "Biological Observation Matrix 0.9.1-dev",
+	"format_url": "http://biom-format.org/documentation/format_versions/biom-1.0.html",
+	"type": "Gene table",
+	"generated_by": "QIIME revision 1.4.0-dev",
+	"date": "2011-12-19T19:00:00",
+	"rows":[
+		{"id":"Alcanivorax sp. 97CO-5", "metadata":{"gene_length":"693"}},
+		{"id":"Psychromonas sp. CNPT3", "metadata":{"gene_length":"690"}},
+		{"id":"Polynucleobacter necessarius", "metadata":{"gene_length":"816"}},
+		{"id":"Pseudooceanicola nanhaiensis", "metadata":{"gene_length":"705"}},
+		{"id":"Psychroflexus tropicus", "metadata":{"gene_length":"711"}},
+		{"id":"Desulfobulbus sp. Tol-SR", "metadata":{"gene_length":"654"}},
+		{"id":"Blattabacterium sp. (Nauphoeta cinerea)", "metadata":{"gene_length":"702"}},
+		{"id":"Sporosarcina sp. P37", "metadata":{"gene_length":"657"}},
+		{"id":"Desulfobacula phenolica", "metadata":{"gene_length":"651"}},
+		{"id":"Gemella bergeri", "metadata":{"gene_length":"654"}},
+		{"id":"Kingella potus", "metadata":{"gene_length":"696"}},
+		{"id":"Candidatus Pelagibacter sp. JGI 02_I9", "metadata":{"gene_length":"687"}},
+		{"id":"Blattabacterium sp. (Periplaneta americana)", "metadata":{"gene_length":"708"}},
+		{"id":"Cyanobium sp. PCC 7001", "metadata":{"gene_length":"729"}}
+	],
+	"columns":[
+		{"id":"metagenome_1-rarefied-1000000", "metadata":{"total_reads":"1000000","mean_read_length":"300.0"}},
+		{"id":"metagenome_2-rarefied-1000000", "metadata":{"total_reads":"1000000","mean_read_length":"300.0"}},
+		{"id":"metagenome_3-rarefied-1000000", "metadata":{"total_reads":"1000000","mean_read_length":"300.0"}}
+	],
+	"matrix_type": "sparse",
+"matrix_element_type": "int",
+	"shape": [14, 3],
+	"data":[[0,0,5.627705627705628],
+		[1,2,7.826086956521739],
+		[2,2,23.529411764705884],
+		[3,2,5.531914893617022],
+		[4,1,2.9535864978902953],
+		[5,1,4.587155963302752],
+		[6,1,4.700854700854701],
+		[7,2,2.2831050228310503],
+		[8,1,2.7649769585253456],
+		[9,2,8.715596330275229],
+		[10,0,5.603448275862069],
+		[11,2,15.720524017467248],
+		[12,0,64.83050847457628],
+		[13,0,3.7037037037037037]
+	]
+}
