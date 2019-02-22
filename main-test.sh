@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script runs rarefaction for an example set of metagenomes.
+
 #Directory containing this script
 sIODir=$HOME/Documents/Research/Java/Distribution/MetagenomeRarefaction
 
