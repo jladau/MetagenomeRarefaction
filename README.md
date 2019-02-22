@@ -1,4 +1,4 @@
-# Nestedness
+# MetagenomeRarefaction
 Software for rarefying metagenomes using an analytic approach rather than re-assembling metagenomes. As inputs this software takes: 
 
 1. A HDF5 biom file (http://biom-format.org/documentation/format_versions/biom-2.1.html) containing the read depths of each gene in a set of metagenomes. As metadata in the biom file, each metagenome should be annotated with its mean read length and total number of reads (assembled and unassembled) under the fields 'mean_read_length' and 'total_reads', respectively. Each gene should be annotated with its length, under the field 'gene_length'. An example file is included at test-data/test-metagenomes.biom
