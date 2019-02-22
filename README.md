@@ -18,3 +18,5 @@ sudo ln -s /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin
 More information on correcting the Java version can be found here: http://stackoverflow.com/questions/12757558/installed-java-7-on-mac-os-x-but-terminal-is-still-using-version-6.
 
 Additionally, to convert JSON formatted biom files to HDF5 formatted files, the biom binaries (http://biom-format.org/index.html) must be installed to enable the 'biom convert' terminal command.
+
+
