@@ -14,9 +14,6 @@ sProbabilityOfAssemblyFcnPath=$sIODir/ref/probability-of-assembly-vs-depth.csv
 #Metagenome rarefaction depth
 iMetagenomeRarefactionDepth=1000000
 
-#Mean read length
-iMeanReadLength=300
-
 #NOTE: for complete list of arguments and documentation, refer to doc/help.txt
 
 cd $sIODir
