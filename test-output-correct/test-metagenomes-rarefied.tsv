@@ -1,16 +1,94 @@
 # Constructed from biom file
 #OTU ID	metagenome_1-rarefied-1000000	metagenome_2-rarefied-1000000	metagenome_3-rarefied-1000000
-Alcanivorax sp. 97CO-5	5.62770562771	0.0	0.0
-Psychromonas sp. CNPT3	0.0	0.0	7.82608695652
-Polynucleobacter necessarius	0.0	0.0	23.5294117647
-Pseudooceanicola nanhaiensis	0.0	0.0	5.53191489362
-Psychroflexus tropicus	0.0	2.95358649789	0.0
-Desulfobulbus sp. Tol-SR	0.0	4.5871559633	0.0
-Blattabacterium sp. (Nauphoeta cinerea)	0.0	4.70085470085	0.0
-Sporosarcina sp. P37	0.0	0.0	2.28310502283
-Desulfobacula phenolica	0.0	2.76497695853	0.0
-Gemella bergeri	0.0	0.0	8.71559633028
-Kingella potus	5.60344827586	0.0	0.0
-Candidatus Pelagibacter sp. JGI 02_I9	0.0	0.0	15.7205240175
-Blattabacterium sp. (Periplaneta americana)	64.8305084746	0.0	0.0
-Cyanobium sp. PCC 7001	3.7037037037	0.0	0.0
+Methylibium sp. NZG	0.0029924667033	0.0	0.0
+Methylocystis parvus	0.0	0.00778544175534	0.0
+Leptolyngbya sp. 2LT21S03	0.00133664637327	0.0	0.0
+Polynucleobacter necessarius	0.0	0.0	1.0
+Janthinobacterium sp. 344	0.0024133140283	0.0	0.0
+Candidatus Dorea massiliensis	0.0	0.00442103058968	0.0
+Salimicrobium jeotgali	0.0	0.0	0.311001358125
+Desulfuromonas acetexigens	0.0	0.0184825614535	0.0
+Eubacterium callanderi	0.0	0.00370575941277	0.0
+Acinetobacter sp. WC-323	0.0	0.0	0.0723164158377
+Phenylobacterium composti	0.0	0.0258982883598	0.0
+Comamonas sp. 26	0.0013217967898	0.0	0.0
+Leptolyngbya sp. O-77	0.00123794654484	0.0	0.0
+Francisella hispaniensis	0.0	0.0	0.0123168929159
+Porphyrobacter sanguineus	0.0	0.0	0.0139281132318
+Ochrobactrum pseudogrignonense	0.0	0.0858830385159	0.0
+Marinobacterium sp. AK27	0.00402714306926	0.0	0.0
+Isoptericola dokdonensis	0.00658476840926	0.0	0.0
+Candidatus Pelagibacter sp. JGI 02_I9	0.0	0.0	0.999415780241
+Cyanothece sp. ATCC 51142	0.0	0.0	0.0543444606146
+Herbidospora daliensis	0.0	0.0934240260724	0.0
+Smithella sp. SCADC	0.0	0.0	0.129923316955
+Desulfovibrio vietnamensis	0.201574049246	0.0	0.0
+Buttiauxella brennerae	0.0	0.00303550769433	0.0
+Tolypothrix sp. PCC 7601	0.0075180069419	0.0	0.0
+Comamonas sp. B-9	0.0	0.00997916332809	0.0
+Sanguibacter suarezii	0.0	0.0044416594063	0.0
+Porphyromonas somerae	0.0	0.0	5.90098283202e-05
+Microcystis panniformis	0.00260733586591	0.0	0.0
+Mycolicibacterium novocastrense	0.0	0.0	0.118060732742
+Desulfuromonas acetoxidans	0.0476935721599	0.0	0.0
+Pseudomonas guineae	0.0	0.0177289787003	0.0
+Desulfobulbus sp. Tol-SR	0.0	0.657001140113	0.0
+Desulfuromonas soudanensis	0.0	0.0	0.00302695468341
+Methylomonas sp. LW13	0.00194571960473	0.0	0.0
+Psychrobacillus sp. OK028	0.0	0.0	0.0220667093908
+Gemella bergeri	0.0	0.0	0.951956711805
+Desulfomicrobium thermophilum	0.0	0.312497086312	0.0
+uncultured Sutterella sp.	0.0	0.544631868115	0.0
+Staphylococcus edaphicus	0.00569169253918	0.0	0.0
+Thalassospira sp. MCCC 1A02491	0.0	0.0	0.000675435612404
+Methylophilus sp. Leaf459	0.0	0.474698898997	0.0
+Alcanivorax sp. 97CO-5	0.834850456843	0.0	0.0
+Lactobacillus algidus	0.467570419528	0.0	0.0
+Desulfomicrobium orale	0.0	0.0	0.00345146276355
+Psychromonas sp. CNPT3	0.0	0.0	0.93190770631
+Anaeromyxobacter sp. PSR-1	0.0304179889779	0.0	0.0
+Pseudooceanicola nanhaiensis	0.0	0.0	0.824610035817
+Nonlabens sp. YIK11	0.0	0.0	0.00715607000045
+Bartonella sp. DB5-6	0.134383392578	0.0	0.0
+Noviherbaspirillum sp. Root189	0.0	0.0019525783007	0.0
+Ralstonia sp. A12	0.0	0.00911166726441	0.0
+Comamonas kerstersii	0.0	0.000191408701828	0.0
+Anaeromyxobacter sp. RBG_16_69_14	0.0	0.0	0.0355347109695
+Halomonas alkaliantarctica	0.0101897072232	0.0	0.0
+Psychroflexus tropicus	0.0	0.375786216069	0.0
+Ahrensia sp.	0.0	0.0	0.00320878372627
+Sporosarcina sp. P37	0.0	0.0	0.291396878645
+Desulfobacula phenolica	0.0	0.297286353776	0.0
+Desulfobacula sp. RIFOXYB2_FULL_45_6	0.0	0.0	0.025522185607
+Curvibacter sp. PAE-UM	0.0	0.0	0.310997502031
+Winogradskyella thalassocola	0.0	0.0	0.00157741712356
+Desulfitobacterium hafniense	0.0	0.0	0.00394294077335
+Geobacter soli	0.0	0.0	0.0716303000619
+Cupriavidus sp. USMAA2-4	0.0013209559491	0.0	0.0
+Blattabacterium sp. (Periplaneta americana)	1.0	0.0	0.0
+Cyanobium sp. PCC 7001	0.50949999898	0.0	0.0
+Gracilibacillus orientalis	0.00502689438083	0.0	0.0
+Thalassospira sp. DSM 26710	0.0	0.00624672616561	0.0
+[Clostridium] spiroforme	0.118383246035	0.0	0.0
+Elizabethkingia sp. YR191	0.123824101217	0.0	0.0
+Anoxybacillus sp. P3H1B	0.0	0.0	0.0282758432669
+Desulfobacula sp. RIFOXYA12_FULL_46_16	0.0	0.359421546197	0.0
+Gemmobacter sp. HYN0069	0.0	0.00382385102599	0.0
+Marinomonas fungiae	0.00680876341036	0.0	0.0
+Acidovorax sp. CF316	0.0	0.0006832561244	0.0
+Veillonella dispar	0.0	0.117856891781	0.0
+Geobacter argillaceus	0.0	0.237923614126	0.0
+Leptolyngbya sp. NIES-3755	0.0	0.00168339673482	0.0
+Pseudooceanicola batsensis	0.0166086673815	0.0	0.0
+Rhodoferax koreense	0.0	0.408687198272	0.0
+Celeribacter ethanolicus	0.0	0.0	0.00366779381422
+Desulfuromonas sp. TF	0.00540035558089	0.0	0.0
+Blattabacterium sp. (Nauphoeta cinerea)	0.0	0.709658379837	0.0
+Desulfuromonas sp. DDH964	0.0	0.0	0.0154915631662
+Leisingera aquimarina	0.0	0.0512389581582	0.0
+Kingella potus	0.842709903061	0.0	0.0
+Aureimonas altamirensis	0.0	0.212170660721	0.0
+Mucilaginibacter sp. L294	0.0	0.000356470528469	0.0
+Candidatus Kinetoplastibacterium desouzaii	0.0	0.0	0.210629780889
+Actinobacillus seminis	0.0	0.00905608483158	0.0
+Cyanothece sp. CCY0110	0.00610743161592	0.0	0.0

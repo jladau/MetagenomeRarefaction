@@ -23,6 +23,13 @@ REQUIRED ARGUMENTS
 	POSSIBLE VALUES: path to a biom file
 	DEFAULT VALUE: na
 
+--sOutputMode:
+	USAGE: Outputs read depths for one random subsample, expected depths for a random subsample,  estimated probability of assembly for a subsample, or rarefaction curves, respectively
+	TYPE: string
+	OPTIONAL: false
+	POSSIBLE VALUES: subsample, mean_depth, probability_assembly, rarefaction_curves
+	DEFAULT VALUE: na
+
 --sOutputPath:
 	USAGE: Path for writing output.
 	TYPE: string
@@ -42,17 +49,17 @@ REQUIRED ARGUMENTS
 OPTIONAL ARGUMENTS
 ------------------
 
+--bIncludeEmptyMetagenomes:
+	USAGE: Flag for whether to output rarefied metagenomes that have no classified reads. Empty metagenomes will be output if this argument is set to "true"; otherwise they will not be output.
+	TYPE: boolean
+	OPTIONAL: true
+	POSSIBLE VALUES: true, false
+	DEFAULT VALUE: false
+
 --sRarefactionCurveOutputPath:
 	USAGE: Path to file with rarefaction cuves. Data fields are METAGENOME_ID, NUMBER_OF_READS, NUMBER_OF_GENES, which are respectively the metagenome ID, number of reads (rarefied), and number of genes in the rarefied metagenome.
 	TYPE: string
 	OPTIONAL: true
 	POSSIBLE VALUES: 
 	DEFAULT VALUE: na
-
---sRarefactionMode:
-	USAGE: Find read counts by calculating the expected value ("mean") or simulating a variate ("randomsample") from a multivariate hypergeometric distribution. Note that in both cases occurrences are always found by simulating a Bernoulli random variate.
-	TYPE: string
-	OPTIONAL: true
-	POSSIBLE VALUES: randomsample, mean
-	DEFAULT VALUE: randomsample
 
